@@ -3,7 +3,7 @@ limit_days = 3
 cache_url = "https://coddinglxf.github.io/MyArxiv/cache.json"
 
 [[sources]]
-limit = 5
+limit = 20
 category = "cs.CL"
 title = "Computation and Language"
 
